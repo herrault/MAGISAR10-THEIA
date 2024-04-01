@@ -1,5 +1,5 @@
 # Journées Atelier GdR MAGIS - Pôle THEIA
-## Se former aux outils de la Télédététection piur des études en écologie
+## Se former aux outils de la Télédététection pour des études en écologie
 ## Strasbourg, 24 et 25 Septembre 2024
 
 Dans le cadre de l’Action de Recherche 10 « Observation de la terre multi capteurs pour le suivi des milieux » du GdR MAGIS et en collaboration avec le Pôle Theia, nous organisons conjointement deux journées de formation autour des outils de télédétection pour des études en écologie. Le but est de présenter à la fois les pratiques courantes et les dernières avancées (en termes de banques d’images disponibles, de logiciels libres et d’applications) et de fournir des bases pratiques pour la mise en œuvre de diagnostic écologiques impliquant une dimension spatiale et temporelle.
