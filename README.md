@@ -41,7 +41,7 @@ Après midi :
 * Mardi 24 et Mercredi 25 septembre 2024 (de 9h le mardi à 16h30 le jeudi)
 
 Participation :
-* Inscription gratuite mais obligatoire avant le 30/11/2024 (nombre de places limité) : envoyer un email à gdr.madics-magis-igrv.observation3d@inria.fr en précisant votre nom, prénom, laboratoire, jours de présence, thématique de recherche,
+* Inscription gratuite mais obligatoire avant le 30/11/2024 (nombre de places limité) : envoyer un email à [] en précisant votre nom, prénom, laboratoire, jours de présence, thématique de recherche,
 thématique(s) d'intérêt(s) spécifiques sur ces journées
 * Si le temps le permet, une présentation de 5 minutes de vos travaux pourra être envisagée (session interactive du 24/11 après-midi). Dans ce cas, merci de préciser votre souhait de présenter lors de votre inscription, avec un titre.
 * Le repas du mercredi soir 24/11 vous est offert (restaurant à définir), merci de préciser également dans votre mail si vous souhaitez y participer.
