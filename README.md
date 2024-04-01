@@ -38,7 +38,7 @@ Après midi :
 
 ## Date et lieu :
 * Collège Doctoral Européen, 46 boulevard de la Victoire, 67000 Strasbourg
-* Mardi 24 et Mercredi 25 septembre 2024 (de 9h le mardi à 16h30 le jeudi)
+* Mardi 24 et Mercredi 25 septembre 2024 (de 9h le mardi à 16h30 le mercredi)
 
 Participation :
 * Inscription gratuite mais obligatoire avant le 30/11/2024 (nombre de places limité) : envoyer un email à [] en précisant votre nom, prénom, laboratoire, jours de présence, thématique de recherche,
