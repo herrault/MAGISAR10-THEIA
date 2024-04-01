@@ -9,7 +9,7 @@ Dans le cadre de l’Action de Recherche 10 « Observation de la terre multi ca
 * Présenter de nouveaux outils et leur prise en main, en particulier grâce à des solutions libres
 * Favoriser les échanges entre le GdR MAGIS et le Pôle Theia pour faire émerger de nouveaux défis, identifier de potentielles collaborations.
 
-Les deux journées sont organisées autour de présentations et de travaux pratiques. Des créneaux sont prévus afin de favoriser les discussions entre les chercheurs issus de communautés complémentaires, rendant importante une présence sur les deux jours. La première journée sera dédiée aux banques d’images satellitaires et au problème de la classification pour produire des cartographies. La seconde journée est axée sur des problématiques plus spécifiques telles que la mesure de la diversité écologique à partir des images satellitaires ou le traitement de données LiDAR. 
+Les deux journées sont organisées autour de présentations et de travaux pratiques. Des créneaux sont prévus afin de favoriser les discussions entre les acteurs du monde academique/scientifique et ceux du monde de la gestion/conservation, rendant importante une présence sur les deux jours. La première journée sera dédiée aux banques d’images satellitaires et au problème de la classification pour produire des cartographies. La seconde journée est axée sur des problématiques plus spécifiques telles que la mesure de la diversité écologique à partir des images satellitaires ou le traitement de données LiDAR. 
 
 ## Déroulement :
 ### Première journée :
