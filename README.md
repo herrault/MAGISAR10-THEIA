@@ -50,3 +50,4 @@ Organisation :
 * Ces journées sont co-organisées par l’Action de Recherche 10 « Observation de la terre multi capteurs pour le suivi des milieux » du GdR MAGIS et en collaboration avec le Pôle Theia.
 * Contact : pierre-alexis.herrault@live-cnrs.unistra.fr et pauline.dusseux@univ-grenoble-alpes.fr
 * Les repas de midi des mercredi 24/11 et jeudi 25/11 ainsi que le repas du soir seront pris en charge par le GdR MAGIS et le Pôle THEIA.
+* IMPORTANT : chaque participant(e) devra impérativement être en possession d'un ordinateur portable pour suivre les sessions pratiques. Une aide à l'installation des logiciels/applications nécessaires sera envoyé quelques jours avant le début de ces journées.
