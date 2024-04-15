@@ -44,10 +44,9 @@ Participation :
 * Inscription gratuite mais obligatoire avant le 30/08/2024 (nombre de places limité) : envoyer un email à [] en précisant votre nom, prénom, laboratoire, jours de présence, thématique de recherche,
 thématique(s) d'intérêt(s) spécifiques sur ces journées
 * Si le temps le permet, une présentation de 5 minutes de vos travaux pourra être envisagée (session interactive du 24/11 après-midi). Dans ce cas, merci de préciser votre souhait de présenter lors de votre inscription, avec un titre.
-* Le repas du mercredi soir 24/11 vous est offert (restaurant à définir), merci de préciser également dans votre mail si vous souhaitez y participer.
 
 Organisation :
 * Ces journées sont co-organisées par l’Action de Recherche 10 « Observation de la terre multi capteurs pour le suivi des milieux » du GdR MAGIS et en collaboration avec le Pôle Theia.
 * Contact : pierre-alexis.herrault@live-cnrs.unistra.fr et pauline.dusseux@univ-grenoble-alpes.fr
-* Les repas de midi des mardi 24/11 et mercredi 25/11 ainsi que le repas du soir seront pris en charge par le GdR MAGIS et le Pôle THEIA.
+* Les repas de midi des mardi 24/11 et mercredi 25/11 seront pris en charge par le GdR MAGIS et le Pôle THEIA.
 * IMPORTANT : chaque participant(e) devra impérativement être en possession d'un ordinateur portable pour suivre les sessions pratiques. Une aide à l'installation des logiciels/applications nécessaires sera envoyé quelques jours avant le début de ces journées.
