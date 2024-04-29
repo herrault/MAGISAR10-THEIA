@@ -41,9 +41,8 @@ Après midi :
 * Mardi 24 et Mercredi 25 septembre 2024 (de 9h le mardi à 16h30 le mercredi)
 
 Participation :
-* Inscription gratuite mais obligatoire avant le 30/08/2024 (nombre de places limité) : envoyer un email à [] en précisant votre nom, prénom, laboratoire, jours de présence, thématique de recherche,
-thématique(s) d'intérêt(s) spécifiques sur ces journées
-* Si le temps le permet, une présentation de 5 minutes de vos travaux pourra être envisagée (session interactive du 24/11 après-midi). Dans ce cas, merci de préciser votre souhait de présenter lors de votre inscription, avec un titre.
+* Inscription gratuite mais obligatoire avant le 30/08/2024 (nombre de places limité) : veuillez svp remplir [ce formulaire](https://forms.gle/RDipNJDaVQdr2uKU7)
+* Si le temps le permet, une présentation de 5 minutes de vos travaux pourra être envisagée (session interactive du 24/11 après-midi). 
 
 Organisation :
 * Ces journées sont co-organisées par l’Action de Recherche 10 « Observation de la terre multi capteurs pour le suivi des milieux » du GdR MAGIS et en collaboration avec le Pôle Theia.
